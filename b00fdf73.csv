@@ -5057,7 +5057,6 @@ fecha,cliente,venta,servicios,km
 2026-10-14,ABB,103733,9,140.793
 2026-10-14,Loomis,68187,2,111.854
 2026-10-14,JPMorgan Chase Bank,56690,4,69.18
-2026-10-14,STRAUMANN,37990,1,62.145
 2026-10-14,Assetplan Asesores SPA,36023,6,60.667
 2026-10-14,Yusen Logistics Chile,33154,2,43.496
 2026-10-14,ARQUETIPO,32236,1,35.974
@@ -5070,5 +5069,6 @@ fecha,cliente,venta,servicios,km
 2026-10-14,Ignacio Quiroga - Particular,5886,1,7.135
 2026-10-14,Metal Form Solution - Particular,5250,1,4.489
 2026-10-14,Milena Tomic,5250,1,0
+2026-10-14,STRAUMANN,5250,1,0
 2026-10-14,UC Christus - Proyecto FONDECYT,5250,1,6.079
-2026-10-14,__TOTAL__,788082,,
+2026-10-14,__TOTAL__,755342,,
